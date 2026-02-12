@@ -87,10 +87,13 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `BCD(2019)`  "Never fry carrots without cutting." Cooking Recipe Generation from Videos Using Deep Learning Considering Previous Process.  **[[PDF](https://ieeexplore.ieee.org/document/8885222)]**
 
+#### Image2Recipe
+
 - `CVPR(2019)`  Inverse Cooking: Recipe Generation From Food Images.  **[[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Salvador_Inverse_Cooking_Recipe_Generation_From_Food_Images_CVPR_2019_paper.pdf)]**
 
 - `DGS@ICLR(2019)`  Storyboarding of Recipes: Grounded Contextual Generation.  **[[PDF](https://openreview.net/pdf?id=rJeQE8LYdV)]**
 
+#### LLM for Recipe Generation
   
 - `CoRR(2024)`  FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation.  **[[PDF](https://arxiv.org/abs/2409.18459)]**
 
