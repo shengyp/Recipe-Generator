@@ -75,8 +75,6 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `EMNLP(2022)`  Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario.  **[[PDF](https://aclanthology.org/2022.emnlp-main.497.pdf)]**
 
-
-
 - `CoRR(2022)`  Towards Fine-Dining Recipe Generation with Generative Pre-trained Transformers.  **[[PDF](https://arxiv.org/pdf/2209.12774)]**
 
 - `CoRR(2022)`  FOON Creation and Traversal for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2210.07335)]**
@@ -101,8 +99,6 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `DATE(2020)`  Production Recipe Validation through Formalization and Digital Twin Generation.  **[[PDF](https://ieeexplore.ieee.org/document/9116343)]**
 
-- `ECCV(2020)`  Structure-Aware Generation Network for Recipe Generation from Images.  **[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_22)]**
-
 - `EMNLP(2020)`  Routing Enforced Generative Model for Recipe Generation.  **[[PDF](https://aclanthology.org/2020.emnlp-main.311.pdf)]**
 
 - `HCI(2020)`  Learn to Cook for Yourself: Employing Gamification in a Recipe App Design to Promote a Healthy Living Experience to Young Generation.  **[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-50164-8_34)]**
@@ -119,14 +115,17 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `WWW(2020)`  RecipeGPT: Generative Pre-training Based Cooking Recipe Generation and Evaluation System.  **[[PDF](https://arxiv.org/pdf/2003.02498)]**
 
-- `CoRR(2020)`  Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.  **[[PDF](https://arxiv.org/pdf/2007.13374)]**
-
-- `CoRR(2020)`  Structure-Aware Generation Network for Recipe Generation from Images.  **[[PDF](https://arxiv.org/pdf/2009.00944)]**
-
 - `ACL(2019)`  Storyboarding of Recipes: Grounded Contextual Generation.  **[[PDF](https://aclanthology.org/P19-1606.pdf)]**
 
 - `BCD(2019)`  "Never fry carrots without cutting." Cooking Recipe Generation from Videos Using Deep Learning Considering Previous Process.  **[[PDF](https://ieeexplore.ieee.org/document/8885222)]**
+
 #### Image2Recipe
+
+- `ECCV(2020)`  Structure-Aware Generation Network for Recipe Generation from Images.  **[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_22)]**
+
+- `CoRR(2020)`  Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.  **[[PDF](https://arxiv.org/pdf/2007.13374)]**
+
+- `CoRR(2020)`  Structure-Aware Generation Network for Recipe Generation from Images.  **[[PDF](https://arxiv.org/pdf/2009.00944)]**
 
 - `CVPR(2019)`  Inverse Cooking: Recipe Generation From Food Images.  **[[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Salvador_Inverse_Cooking_Recipe_Generation_From_Food_Images_CVPR_2019_paper.pdf)]**
 
