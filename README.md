@@ -45,15 +45,10 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `ICASSP(2024)`  Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10447148)]**
 
+- `ICIMTech(2024)`  AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10780810)]**
 
+- `INLG(2024)`  AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation.  **[[PDF](https://aclanthology.org/2024.inlg-main.1/)]**
 
-标题：AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation. ICIMTech 2024: 123-128
-链接：AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation | IEEE Conference Publication | IEEE Xplore
-
-22.
-年份：2024
-标题：AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation. INLG 2024: 1-12
-链接：AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation - ACL Anthology
 
 23.
 年份：2024
@@ -131,8 +126,4 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 链接：[2312.15770] A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
 
 
-
-
-
-- `RecSys(2023)`  Denoising Explicit Social Signals for Robust Recommendation.  
 
