@@ -51,16 +51,11 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `WACV(2024)`  FIRE: Food Image to REcipe generation.  **[[PDF](https://ieeexplore.ieee.org/document/10484198)]**
 
+- `WI/IAT(2024)`  Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations.  **[[PDF](https://ieeexplore.ieee.org/document/10973364)]**
 
-24.
-年份：2024
-标题：Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations - RecipeBERT. WI/IAT 2024: 796-803
-链接：Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations - RecipeBERT | IEEE Conference Publication | IEEE Xplore
+- `CoRR(2025)`  Monte Carlo Tree Search for Recipe Generation using GPT-2.  **[[PDF](https://arxiv.org/abs/2401.05199)]**
 
-25.
-年份：2024
-标题：Monte Carlo Tree Search for Recipe Generation using GPT-2. CoRR abs/2401.05199 (2024)
-链接：[2401.05199] Monte Carlo Tree Search for Recipe Generation using GPT-2
+
 
 26.
 年份：2024
