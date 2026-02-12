@@ -43,15 +43,10 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `CVPR(2024)`  A Recipe for Scaling up Text-to-Video Generation with Text-free Videos.  **[[PDF](https://ieeexplore.ieee.org/document/10657098)]**
 
+- `ICASSP(2024)`  Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10447148)]**
 
 
 
-
-标题：Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation. ICASSP 2024: 11446-11450
-链接：Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation | IEEE Conference Publication | IEEE Xplore
-
-21.
-年份：2024
 标题：AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation. ICIMTech 2024: 123-128
 链接：AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation | IEEE Conference Publication | IEEE Xplore
 
@@ -134,6 +129,9 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 年份：2023
 标题：A Recipe for Scaling up Text-to-Video Generation with Text-free Videos. CoRR abs/2312.15770 (2023)
 链接：[2312.15770] A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
+
+
+
 
 
 - `RecSys(2023)`  Denoising Explicit Social Signals for Robust Recommendation.  
