@@ -43,8 +43,6 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `CVPR(2024)`  A Recipe for Scaling up Text-to-Video Generation with Text-free Videos.  **[[PDF](https://ieeexplore.ieee.org/document/10657098)]**
 
-- `ICASSP(2024)`  Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10447148)]**
-
 - `ICIMTech(2024)`  AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10780810)]**
 
 - `INLG(2024)`  AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation.  **[[PDF](https://aclanthology.org/2024.inlg-main.1/)]**
@@ -83,7 +81,7 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `EMNLP(2022)`  Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario.  **[[PDF](https://aclanthology.org/2022.emnlp-main.497.pdf)]**
 
-- `ICDE(2022)`  Ratatouille: A tool for Novel Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/9814641)]**
+
 
 - `CoRR(2022)`  Towards Fine-Dining Recipe Generation with Generative Pre-trained Transformers.  **[[PDF](https://arxiv.org/pdf/2209.12774)]**
 
@@ -123,47 +121,14 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 #### LLM for Recipe Generation
   
+- `ICASSP(2024)`  Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10447148)]**
+  
 - `CoRR(2024)`  FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation.  **[[PDF](https://arxiv.org/abs/2409.18459)]**
 
+#### Recipe Generation Tools
 
-29.
-年份：2024
-标题：Retrieval Augmented Recipe Generation. CoRR abs/2411.08715 (2024)
-链接：[2411.08715] Retrieval Augmented Recipe Generation
+- `ICDE(2022)`  Ratatouille: A tool for Novel Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/9814641)]**
+  
 
-30.
-年份：2023
-标题：Learning Structural Representations for Recipe Generation and Food Retrieval. IEEE Trans. Pattern Anal. Mach. Intell. 45(3): 3363-3377 (2023)
-链接：Learning Structural Representations for Recipe Generation and Food Retrieval | IEEE Journals & Magazine | IEEE Xplore
-
-31.
-年份：2023
-标题：Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe. ACL (1) 2023: 1321-1342
-链接：Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe - ACL Anthology
-
-32.
-年份：2023
-标题：Recipe 2.0: Information Presentation for AI-Supported Culinary Idea Generation. ICCC 2023: 443-452
-链接：ICCC-2023_paper_34.pdf
-
-33.
-年份：2023
-标题：Monte Carlo Tree Search for Recipe Generation using GPT-2. ICCC 2023: 20-28
-链接：computationalcreativity.net/iccc23/papers/ICCC-2023_paper_46.pdf
-
-34.
-年份：2023
-标题：Automatic Generation of Funny-Dialog Based on Cuisine Recipes. NBiS 2023: 216-226
-链接：Automatic Generation of Funny-Dialog Based on Cuisine Recipes | Springer Nature Link
-
-35.
-年份：2023
-标题：The Multimodal And Modular Ai Chef: Complex Recipe Generation From Imagery. CoRR abs/2304.02016 (2023)
-链接：[2304.02016] The Multimodal And Modular Ai Chef: Complex Recipe Generation From Imagery
-
-36.
-年份：2023
-标题：FIRE: Food Image to REcipe generation. CoRR abs/2308.14391 (2023)
-链接：[2308.14391] FIRE: Food Image to REcipe generation
 
 
