@@ -146,6 +146,11 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 #### Recipe Generation Tools
 
 - `ICDE(2022)`  Ratatouille: A tool for Novel Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/9814641)]**
+
+
+
+
+
   
 
 
