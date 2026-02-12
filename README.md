@@ -9,11 +9,6 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 #### Paper List
 
-
-- `TOIS(2025)`  C2lRec: Causal Contrastive Learning for User Cold-start Recommendation with Social Variable.  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3711858)]**  
-
-- `TOIS(2025)`  Independent or Social Driven Decision? A Counterfactual Refinement Strategy for Graph-Based Social Recommendation.  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3717830)]**  
-
 - `Comput.(2025)`  DietQA: A Comprehensive Framework for Personalized Multi-Diet Recipe Retrieval Using Knowledge Graphs, Retrieval-Augmented Generation, and Large Language Models.   **[[PDF](https://www.mdpi.com/2073-431X/14/10/412)]**
   
 - `ACM Trans.Comput. Heal.(2025)`  Exploring Large Language Models for Personalized Recipe Generation and Weight-Loss Management.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3712709)]**
@@ -40,10 +35,7 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `CoRR(2025)`  RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2506.06733)]**
 
-- `CoRR(2025)`  The Digital Sous Chef - A Comparative Study on Fine-Tuning Language Models for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2508.14718)]**
-
-- `CoRR(2025)`  Secure-Instruct: An Automated Pipeline for Synthesizing Instruction-Tuning Datasets Using LLMs for Secure Code Generation  **[[PDF](https://arxiv.org/pdf/2510.07189)]**
-  
+- `CoRR(2025)`  The Digital Sous Chef - A Comparative Study on Fine-Tuning Language Models for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2508.14718)]**  
 
 - `CIKM(2023)`  SMEF: Social-aware Multi-dimensional Edge Features-based Graph Representation Learning for Recommendation.  
 
