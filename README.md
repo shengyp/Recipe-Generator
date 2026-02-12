@@ -85,10 +85,6 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `ICDE(2022)`  Ratatouille: A tool for Novel Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/9814641)]**
 
-- `ICMR(2022)`  Ingredient-enriched Recipe Generation from Cooking Videos.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3512527.3531388)]**
-
-- `CoRR(2022)`  Recipe Generation from Unsegmented Cooking Videos.  **[[PDF](https://arxiv.org/pdf/2209.10134)]**
-
 - `CoRR(2022)`  Towards Fine-Dining Recipe Generation with Generative Pre-trained Transformers.  **[[PDF](https://arxiv.org/pdf/2209.12774)]**
 
 - `CoRR(2022)`  FOON Creation and Traversal for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2210.07335)]**
@@ -105,12 +101,6 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `CoRR(2021)`  Learning Structural Representations for Recipe Generation and Food Retrieval.  **[[PDF](https://arxiv.org/pdf/2110.01209)]**
 
-- 
-
-
-
-
-
 - `CoRR(2020)`  Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.  **[[PDF](https://arxiv.org/pdf/2007.13374)]**
 
 - `CoRR(2020)`  Structure-Aware Generation Network for Recipe Generation from Images.  **[[PDF](https://arxiv.org/pdf/2009.00944)]**
@@ -124,6 +114,12 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 - `CVPR(2019)`  Inverse Cooking: Recipe Generation From Food Images.  **[[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Salvador_Inverse_Cooking_Recipe_Generation_From_Food_Images_CVPR_2019_paper.pdf)]**
 
 - `DGS@ICLR(2019)`  Storyboarding of Recipes: Grounded Contextual Generation.  **[[PDF](https://openreview.net/pdf?id=rJeQE8LYdV)]**
+
+#### Video2Recipe
+
+- `ICMR(2022)`  Ingredient-enriched Recipe Generation from Cooking Videos.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3512527.3531388)]**
+
+- `CoRR(2022)`  Recipe Generation from Unsegmented Cooking Videos.  **[[PDF](https://arxiv.org/pdf/2209.10134)]**
 
 #### LLM for Recipe Generation
   
@@ -170,8 +166,4 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 标题：FIRE: Food Image to REcipe generation. CoRR abs/2308.14391 (2023)
 链接：[2308.14391] FIRE: Food Image to REcipe generation
 
-37.
-年份：2023
-标题：A Recipe for Scaling up Text-to-Video Generation with Text-free Videos. CoRR abs/2312.15770 (2023)
-链接：[2312.15770] A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
 
