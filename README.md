@@ -1,17 +1,15 @@
 ### A Paper List for Recipe Generation and Recommendation
 
-This is a paper list for Recipe Generation and Recommendation，which also contains some related research areas.
+This is a paper list for Recipe Generation and Recommendation, which also contains some related research areas.
 
-**Keywords:** *Recommend System, Social Recommendation*
+**Keywords:** *Recipe Generation, Recipe Recommendation*
+
 #### Survey
-- `CSUR(2024)`  A Survey of Graph Neural Networks for Social Recommender Systems.  **[[PDF](https://dl.acm.org/doi/10.1145/3661821)]**  
 
 
 #### Paper List
 
 - `Comput.(2025)`  DietQA: A Comprehensive Framework for Personalized Multi-Diet Recipe Retrieval Using Knowledge Graphs, Retrieval-Augmented Generation, and Large Language Models.   **[[PDF](https://www.mdpi.com/2073-431X/14/10/412)]**
-
-- `IEEE Trans. Multim.(2025)`  CookGALIP: Recipe Controllable Generative Adversarial CLIPs With Sequential Ingredient Prompts for Food Image Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10474191)]**
 
 - `ACM Multimedia(2025)`  RecipeRAG: Advancing Recipe Generation with Reinforced Retrieval Augmented Generation.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3746027.3755734)]**
 
@@ -20,8 +18,6 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 - `NAACL(2025)`  MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration.  **[[PDF](https://aclanthology.org/2025.naacl-long.498.pdf)]**
 
 - `WACV(2025)`  Retrieval Augmented Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10943855)]**
-  
-- `CoRR(2025)`  RecipeGen: A Benchmark for Real-World Recipe Image Generation.   **[[PDF](https://arxiv.org/pdf/2503.05228)]**
 
 - `CoRR(2025)`  Reverse Prompt: Cracking the Recipe Inside Text-to-Image Generation.  **[[PDF](https://arxiv.org/pdf/2503.19937)]**
 
@@ -31,17 +27,9 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `CoRR(2025)`  The Digital Sous Chef - A Comparative Study on Fine-Tuning Language Models for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2508.14718)]**  
 
-- `CoRR(2025)`  CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.  **[[PDF](https://arxiv.org/abs/2512.03540)]**
-  
-- `CIKM(2024)`  ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.  **[[PDF](https://dl.acm.org/doi/10.1145/3627673.3679885)]**
-
-- `CVPR(2024)`  A Recipe for Scaling up Text-to-Video Generation with Text-free Videos.  **[[PDF](https://ieeexplore.ieee.org/document/10657098)]**
-
 - `ICIMTech(2024)`  AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10780810)]**
 
-- `INLG(2024)`  AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation.  **[[PDF](https://aclanthology.org/2024.inlg-main.1/)]**
-
-- `WACV(2024)`  FIRE: Food Image to REcipe generation.  **[[PDF](https://ieeexplore.ieee.org/document/10484198)]**
+- `WACV(2024)`  FIRE: Food Image to Recipe generation.  **[[PDF](https://ieeexplore.ieee.org/document/10484198)]**
 
 - `WI/IAT(2024)`  Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations.  **[[PDF](https://ieeexplore.ieee.org/document/10973364)]**
 
@@ -50,8 +38,6 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 - `CoRR(2024)`  Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM.  **[[PDF](https://arxiv.org/abs/2407.18992)]**
 
 - `CoRR(2024)`  ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.  **[[PDF](https://arxiv.org/abs/2409.12010)]**
-
-- `CoRR(2024)`  FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2409.18459)]**
 
 - `CoRR(2024)`  Retrieval Augmented Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2411.08715)]**
 
@@ -74,8 +60,6 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 - `IEEE Trans. Multim.(2022)`  Reinforcement Learning for Logic Recipe Generation: Bridging Gaps From Images to Plans.  **[[PDF](https://ieeexplore.ieee.org/document/9318510)]**
 
 - `EMNLP(2022)`  Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario.  **[[PDF](https://aclanthology.org/2022.emnlp-main.497.pdf)]**
-
-- `CoRR(2022)`  Towards Fine-Dining Recipe Generation with Generative Pre-trained Transformers.  **[[PDF](https://arxiv.org/pdf/2209.12774)]**
 
 - `CoRR(2022)`  FOON Creation and Traversal for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2210.07335)]**
 
@@ -113,11 +97,19 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `SII(2020)`  Japanese Recipe Interpretation for Motion Process Generation of Cooking Robot.  **[[PDF](https://ieeexplore.ieee.org/document/9026253)]**
 
-- `WWW(2020)`  RecipeGPT: Generative Pre-training Based Cooking Recipe Generation and Evaluation System.  **[[PDF](https://arxiv.org/pdf/2003.02498)]**
-
 - `ACL(2019)`  Storyboarding of Recipes: Grounded Contextual Generation.  **[[PDF](https://aclanthology.org/P19-1606.pdf)]**
 
 - `BCD(2019)`  "Never fry carrots without cutting." Cooking Recipe Generation from Videos Using Deep Learning Considering Previous Process.  **[[PDF](https://ieeexplore.ieee.org/document/8885222)]**
+
+#### Recipe Image Generation
+
+- `IEEE Trans. Multim.(2025)`  CookGALIP: Recipe Controllable Generative Adversarial CLIPs With Sequential Ingredient Prompts for Food Image Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10474191)]**
+
+- `CoRR(2025)`  RecipeGen: A Benchmark for Real-World Recipe Image Generation.   **[[PDF](https://arxiv.org/pdf/2503.05228)]**
+  
+- `CoRR(2025)`  CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.  **[[PDF](https://arxiv.org/abs/2512.03540)]**
+  
+- `CIKM(2024)`  ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.  **[[PDF](https://dl.acm.org/doi/10.1145/3627673.3679885)]**
 
 #### Image2Recipe
 
@@ -146,6 +138,10 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 - `MMM(2025)`  FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation.  **[[PDF](https://link.springer.com/chapter/10.1007/978-981-96-2054-8_30)]**
 
 - `ICASSP(2024)`  Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10447148)]**
+
+- `CoRR(2022)`  Towards Fine-Dining Recipe Generation with Generative Pre-trained Transformers.  **[[PDF](https://arxiv.org/pdf/2209.12774)]**
+     
+- `WWW(2020)`  RecipeGPT: Generative Pre-training Based Cooking Recipe Generation and Evaluation System.  **[[PDF](https://arxiv.org/pdf/2003.02498)]**
 
 #### Recipe Generation Tools
 
