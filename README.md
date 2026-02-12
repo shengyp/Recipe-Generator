@@ -53,22 +53,15 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `WI/IAT(2024)`  Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations.  **[[PDF](https://ieeexplore.ieee.org/document/10973364)]**
 
-- `CoRR(2025)`  Monte Carlo Tree Search for Recipe Generation using GPT-2.  **[[PDF](https://arxiv.org/abs/2401.05199)]**
+- `CoRR(2024)`  Monte Carlo Tree Search for Recipe Generation using GPT-2.  **[[PDF](https://arxiv.org/abs/2401.05199)]**
+
+- `CoRR(2024)`  Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM.  **[[PDF](https://arxiv.org/abs/2407.18992)]**
+
+- `CoRR(2024)`  ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.  **[[PDF](https://arxiv.org/abs/2409.12010)]**
+
+  
 
 
-
-26.
-年份：2024
-标题：Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM. CoRR abs/2407.18992 (2024)
-链接：[2407.18992] Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM
-
-27.
-年份：2024
-标题：ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation. CoRR abs/2409.12010 (2024)
-链接：[2409.12010] ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation
-
-28.
-年份：2024
 标题：FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation. CoRR abs/2409.18459 (2024)
 链接：[2409.18459] FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation
 
