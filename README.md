@@ -49,11 +49,8 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `INLG(2024)`  AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation.  **[[PDF](https://aclanthology.org/2024.inlg-main.1/)]**
 
+- `WACV(2024)`  FIRE: Food Image to REcipe generation.  **[[PDF](https://ieeexplore.ieee.org/document/10484198)]**
 
-23.
-年份：2024
-标题：FIRE: Food Image to REcipe generation. WACV 2024: 8169-8179
-链接：FIRE: Food Image to REcipe generation | IEEE Conference Publication | IEEE Xplore
 
 24.
 年份：2024
@@ -124,6 +121,4 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 年份：2023
 标题：A Recipe for Scaling up Text-to-Video Generation with Text-free Videos. CoRR abs/2312.15770 (2023)
 链接：[2312.15770] A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
-
-
 
