@@ -92,10 +92,8 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 - `DGS@ICLR(2019)`  Storyboarding of Recipes: Grounded Contextual Generation.  **[[PDF](https://openreview.net/pdf?id=rJeQE8LYdV)]**
 
   
+- `CoRR(2024)`  FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation.  **[[PDF](https://arxiv.org/abs/2409.18459)]**
 
-
-标题：FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation. CoRR abs/2409.18459 (2024)
-链接：[2409.18459] FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation
 
 29.
 年份：2024
