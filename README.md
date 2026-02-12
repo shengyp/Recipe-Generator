@@ -59,6 +59,38 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `CoRR(2024)`  ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.  **[[PDF](https://arxiv.org/abs/2409.12010)]**
 
+- `CoRR(2024)`  FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2409.18459)]**
+
+- `CoRR(2024)`  Retrieval Augmented Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2411.08715)]**
+
+- `IEEE Trans. Pattern Anal. Mach. Intell.(2023)`  Learning Structural Representations for Recipe Generation and Food Retrieval.  **[[PDF](https://ieeexplore.ieee.org/document/9793670)]**
+
+- `ACL(2023)`  Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe.  **[[PDF](https://aclanthology.org/2023.acl-long.74.pdf)]**
+
+- `ICCC(2023)`  Recipe 2.0: Information Presentation for AI-Supported Culinary Idea Generation.  **[[PDF](https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_34.pdf)]**
+
+- `ICCC(2023)`  Monte Carlo Tree Search for Recipe Generation using GPT-2.  **[[PDF](https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_46.pdf)]**
+
+- `NBiS(2023)`  Automatic Generation of Funny-Dialog Based on Cuisine Recipes.  **[[PDF](https://link.springer.com/chapter/10.1007/978-3-031-40978-3_24)]**
+
+- `CoRR(2023)`  The Multimodal And Modular Ai Chef: Complex Recipe Generation From Imagery.  **[[PDF](https://arxiv.org/pdf/2304.02016)]**
+
+- `Appl(2022)`  Multimodal feature fusion and exploitation with dual learning and reinforcement learning for recipe generation.  **[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1568494622004781?via=ihub)]**
+
+- `Pattern Recognit.(2022)`  Decomposing generation networks with structure prediction for recipe generation.  **[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000590?via=ihub)]**
+
+- `CoRR(2020)`  Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.  **[[PDF](https://arxiv.org/pdf/2007.13374)]**
+
+- `CoRR(2020)`  Structure-Aware Generation Network for Recipe Generation from Images.  **[[PDF](https://arxiv.org/pdf/2009.00944)]**
+
+- `ACL(2019)`  Storyboarding of Recipes: Grounded Contextual Generation.  **[[PDF](https://aclanthology.org/P19-1606.pdf)]**
+
+- `BCD(2019)`  "Never fry carrots without cutting." Cooking Recipe Generation from Videos Using Deep Learning Considering Previous Process.  **[[PDF](https://ieeexplore.ieee.org/document/8885222)]**
+
+- `CVPR(2019)`  Inverse Cooking: Recipe Generation From Food Images.  **[[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Salvador_Inverse_Cooking_Recipe_Generation_From_Food_Images_CVPR_2019_paper.pdf)]**
+
+- `DGS@ICLR(2019)`  Storyboarding of Recipes: Grounded Contextual Generation.  **[[PDF](https://openreview.net/pdf?id=rJeQE8LYdV)]**
+
   
 
 
