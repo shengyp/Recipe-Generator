@@ -79,6 +79,38 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `Pattern Recognit.(2022)`  Decomposing generation networks with structure prediction for recipe generation.  **[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000590?via=ihub)]**
 
+- `IEEE Trans. Multim.(2022)`  Reinforcement Learning for Logic Recipe Generation: Bridging Gaps From Images to Plans.  **[[PDF](https://ieeexplore.ieee.org/document/9318510)]**
+
+- `EMNLP(2022)`  Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario.  **[[PDF](https://aclanthology.org/2022.emnlp-main.497.pdf)]**
+
+- `ICDE(2022)`  Ratatouille: A tool for Novel Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/9814641)]**
+
+- `ICMR(2022)`  Ingredient-enriched Recipe Generation from Cooking Videos.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3512527.3531388)]**
+
+- `CoRR(2022)`  Recipe Generation from Unsegmented Cooking Videos.  **[[PDF](https://arxiv.org/pdf/2209.10134)]**
+
+- `CoRR(2022)`  Towards Fine-Dining Recipe Generation with Generative Pre-trained Transformers.  **[[PDF](https://arxiv.org/pdf/2209.12774)]**
+
+- `CoRR(2022)`  FOON Creation and Traversal for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2210.07335)]**
+
+- `CoRR(2022)`  Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario.  **[[PDF](https://arxiv.org/pdf/2210.11431)]**
+
+- `CoRR(2022)`  Plug-and-Play Recipe Generation with Content Planning.  **[[PDF](https://arxiv.org/pdf/2212.05093)]**
+
+- `ICDE(2021)`  Model for Cooking Recipe Generation using Reinforcement Learning.  **[[PDF](https://ieeexplore.ieee.org/document/9438751)]**
+
+- `ICDE(2021)`  RecipeGM: A Hierarchical Recipe Generation Model.  **[[PDF](https://ieeexplore.ieee.org/document/9438787)]**
+
+- `WebMedia(2021)`  Ingredient Substitute Recommendation Based on Collaborative Filtering and Recipe Context for Automatic Allergy-Safe Recipe Generation.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3470482.3479622)]**
+
+- `CoRR(2021)`  Learning Structural Representations for Recipe Generation and Food Retrieval.  **[[PDF](https://arxiv.org/pdf/2110.01209)]**
+
+- 
+
+
+
+
+
 - `CoRR(2020)`  Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.  **[[PDF](https://arxiv.org/pdf/2007.13374)]**
 
 - `CoRR(2020)`  Structure-Aware Generation Network for Recipe Generation from Images.  **[[PDF](https://arxiv.org/pdf/2009.00944)]**
