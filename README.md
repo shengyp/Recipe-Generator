@@ -13,10 +13,6 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `ACM Multimedia(2025)`  RecipeRAG: Advancing Recipe Generation with Reinforced Retrieval Augmented Generation.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3746027.3755734)]**
 
-- `ACM Multimedia(2025)`  CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3746027.3755174)]**
-
-- `NAACL(2025)`  MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration.  **[[PDF](https://aclanthology.org/2025.naacl-long.498.pdf)]**
-
 - `WACV(2025)`  Retrieval Augmented Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10943855)]**
 
 - `CoRR(2025)`  Reverse Prompt: Cracking the Recipe Inside Text-to-Image Generation.  **[[PDF](https://arxiv.org/pdf/2503.19937)]**
@@ -25,19 +21,13 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `CoRR(2025)`  RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2506.06733)]**
 
-- `CoRR(2025)`  The Digital Sous Chef - A Comparative Study on Fine-Tuning Language Models for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2508.14718)]**  
-
 - `ICIMTech(2024)`  AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation.  **[[PDF](https://ieeexplore.ieee.org/document/10780810)]**
-
-- `WACV(2024)`  FIRE: Food Image to Recipe generation.  **[[PDF](https://ieeexplore.ieee.org/document/10484198)]**
 
 - `WI/IAT(2024)`  Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations.  **[[PDF](https://ieeexplore.ieee.org/document/10973364)]**
 
 - `CoRR(2024)`  Monte Carlo Tree Search for Recipe Generation using GPT-2.  **[[PDF](https://arxiv.org/abs/2401.05199)]**
 
 - `CoRR(2024)`  Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM.  **[[PDF](https://arxiv.org/abs/2407.18992)]**
-
-- `CoRR(2024)`  ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.  **[[PDF](https://arxiv.org/abs/2409.12010)]**
 
 - `CoRR(2024)`  Retrieval Augmented Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2411.08715)]**
 
@@ -109,9 +99,13 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
   
 - `CoRR(2025)`  CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.  **[[PDF](https://arxiv.org/abs/2512.03540)]**
   
+- `ACM Multimedia(2025)`  CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3746027.3755174)]**
+  
 - `CIKM(2024)`  ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.  **[[PDF](https://dl.acm.org/doi/10.1145/3627673.3679885)]**
 
 #### Image2Recipe
+
+- `WACV(2024)`  FIRE: Food Image to Recipe generation.  **[[PDF](https://ieeexplore.ieee.org/document/10484198)]**
 
 - `ECCV(2020)`  Structure-Aware Generation Network for Recipe Generation from Images.  **[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_22)]**
 
@@ -123,6 +117,7 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 
 - `DGS@ICLR(2019)`  Storyboarding of Recipes: Grounded Contextual Generation.  **[[PDF](https://openreview.net/pdf?id=rJeQE8LYdV)]**
 
+
 #### Video2Recipe
 
 - `ICMR(2022)`  Ingredient-enriched Recipe Generation from Cooking Videos.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3512527.3531388)]**
@@ -132,6 +127,8 @@ This is a paper list for Recipe Generation and Recommendation, which also contai
 #### LLM for Recipe Generation
 
 - `CoRR(2025)`  Fine-tuning Language Models for Recipe Generation: A Comparative Analysis and Benchmark Study.  **[[PDF](https://arxiv.org/pdf/2502.02028)]**
+
+-  `CoRR(2025)`  The Digital Sous Chef - A Comparative Study on Fine-Tuning Language Models for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2508.14718)]**  
 
 - `ACM Trans.Comput. Heal.(2025)`  Exploring Large Language Models for Personalized Recipe Generation and Weight-Loss Management.  **[[PDF](https://dl.acm.org/doi/epdf/10.1145/3712709)]**
 
