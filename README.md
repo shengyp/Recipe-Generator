@@ -37,9 +37,104 @@ This is a paper list for Recipe Generation and Recommendation，which also conta
 
 - `CoRR(2025)`  The Digital Sous Chef - A Comparative Study on Fine-Tuning Language Models for Recipe Generation.  **[[PDF](https://arxiv.org/pdf/2508.14718)]**  
 
-- `CIKM(2023)`  SMEF: Social-aware Multi-dimensional Edge Features-based Graph Representation Learning for Recommendation.  
+- `CoRR(2025)`  CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.  **[[PDF](https://arxiv.org/abs/2512.03540)]**
+  
+- `CIKM(2024)`  ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.  **[[PDF](https://dl.acm.org/doi/10.1145/3627673.3679885)]**
 
-- `CIKM(2023)`  Celebrity-aware Graph Contrastive Learning Framework for Social Recommendation.  
+- `CVPR(2024)`  A Recipe for Scaling up Text-to-Video Generation with Text-free Videos.  **[[PDF](https://ieeexplore.ieee.org/document/10657098)]**
+
+
+
+
+
+标题：Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation. ICASSP 2024: 11446-11450
+链接：Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation | IEEE Conference Publication | IEEE Xplore
+
+21.
+年份：2024
+标题：AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation. ICIMTech 2024: 123-128
+链接：AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation | IEEE Conference Publication | IEEE Xplore
+
+22.
+年份：2024
+标题：AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation. INLG 2024: 1-12
+链接：AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation - ACL Anthology
+
+23.
+年份：2024
+标题：FIRE: Food Image to REcipe generation. WACV 2024: 8169-8179
+链接：FIRE: Food Image to REcipe generation | IEEE Conference Publication | IEEE Xplore
+
+24.
+年份：2024
+标题：Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations - RecipeBERT. WI/IAT 2024: 796-803
+链接：Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations - RecipeBERT | IEEE Conference Publication | IEEE Xplore
+
+25.
+年份：2024
+标题：Monte Carlo Tree Search for Recipe Generation using GPT-2. CoRR abs/2401.05199 (2024)
+链接：[2401.05199] Monte Carlo Tree Search for Recipe Generation using GPT-2
+
+26.
+年份：2024
+标题：Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM. CoRR abs/2407.18992 (2024)
+链接：[2407.18992] Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM
+
+27.
+年份：2024
+标题：ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation. CoRR abs/2409.12010 (2024)
+链接：[2409.12010] ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation
+
+28.
+年份：2024
+标题：FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation. CoRR abs/2409.18459 (2024)
+链接：[2409.18459] FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation
+
+29.
+年份：2024
+标题：Retrieval Augmented Recipe Generation. CoRR abs/2411.08715 (2024)
+链接：[2411.08715] Retrieval Augmented Recipe Generation
+
+30.
+年份：2023
+标题：Learning Structural Representations for Recipe Generation and Food Retrieval. IEEE Trans. Pattern Anal. Mach. Intell. 45(3): 3363-3377 (2023)
+链接：Learning Structural Representations for Recipe Generation and Food Retrieval | IEEE Journals & Magazine | IEEE Xplore
+
+31.
+年份：2023
+标题：Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe. ACL (1) 2023: 1321-1342
+链接：Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe - ACL Anthology
+
+32.
+年份：2023
+标题：Recipe 2.0: Information Presentation for AI-Supported Culinary Idea Generation. ICCC 2023: 443-452
+链接：ICCC-2023_paper_34.pdf
+
+33.
+年份：2023
+标题：Monte Carlo Tree Search for Recipe Generation using GPT-2. ICCC 2023: 20-28
+链接：computationalcreativity.net/iccc23/papers/ICCC-2023_paper_46.pdf
+
+34.
+年份：2023
+标题：Automatic Generation of Funny-Dialog Based on Cuisine Recipes. NBiS 2023: 216-226
+链接：Automatic Generation of Funny-Dialog Based on Cuisine Recipes | Springer Nature Link
+
+35.
+年份：2023
+标题：The Multimodal And Modular Ai Chef: Complex Recipe Generation From Imagery. CoRR abs/2304.02016 (2023)
+链接：[2304.02016] The Multimodal And Modular Ai Chef: Complex Recipe Generation From Imagery
+
+36.
+年份：2023
+标题：FIRE: Food Image to REcipe generation. CoRR abs/2308.14391 (2023)
+链接：[2308.14391] FIRE: Food Image to REcipe generation
+
+37.
+年份：2023
+标题：A Recipe for Scaling up Text-to-Video Generation with Text-free Videos. CoRR abs/2312.15770 (2023)
+链接：[2312.15770] A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
+
 
 - `RecSys(2023)`  Denoising Explicit Social Signals for Robust Recommendation.  
 
